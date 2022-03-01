@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">+Beers</string>
+    <string name="splash_text">Welcome</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet consectetuer</string>
+    <string name="label_beer_name">Beer</string>
+    <string name="label_search">Beers</string>
+    <string name="label_abv">abv</string>
+    <string name="label_ibu">ibu</string>
+    <string name="label_close">Close</string>
+</resources>

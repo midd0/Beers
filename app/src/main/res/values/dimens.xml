@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Sizes-->
+    <dimen name="margin_large_size">16dp</dimen>
+    <dimen name="margin_little_size">8dp</dimen>
+    <dimen name="image_large_width">100dp</dimen>
+    <dimen name="image_large_height">300dp</dimen>
+    <dimen name="image_little_width">32dp</dimen>
+    <dimen name="image_little_height">32dp</dimen>
+
+    <!-- Text Dimensions -->
+    <dimen name="font_primary_title">24sp</dimen>
+    <dimen name="font_secondary_title">18sp</dimen>
+    <dimen name="font_tertiary_title">16sp</dimen>
+
+</resources>
